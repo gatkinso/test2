@@ -1,6 +1,6 @@
 public class Vehicle {
     public Vehicle() {
-        System.out.println("A vehicle!");
+        System.out.println("CONS vehicle!");
     }
 
     public void drive() {
